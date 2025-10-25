@@ -1,36 +1,25 @@
-body{
-
-  background-color: #9ab5ff;
-}
 img{
-
-  height: 100px;
-  width: 300px;
+ height: 100px;
+ width: 300px;
 }
 table{
-  font-family:'Courier New', Courier, monospace ;
+  font-family:Tahoma, Geneva, Verdana, sans-serif;
   border-collapse: collapse;
 }
 td,th{
-
-
-  border:1px solid black;
+border:1px solid black;
 }
-ul{
 
-  list-style-type:circle;
-  list-style-type:square;
-  list style type:none;
+ul{
+list-style-type:circle;
+list-style-type:square;
 }
 title{
-  background: RED;
   color:aliceblue;
   padding: 10px;
 }
-h1,p,span,strong{
 
-  border: 1px solid red;
-  background: RED;
+h1,p,span,strong{
   color:aliceblue;
   padding: 10px;
 }
